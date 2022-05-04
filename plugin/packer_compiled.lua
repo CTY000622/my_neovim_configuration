@@ -74,10 +74,45 @@ _G.packer_plugins = {
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
     url = "https://hub.fastgit.xyz/akinsho/bufferline.nvim"
   },
+  ["cmp-buffer"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/cmp-buffer",
+    url = "https://hub.fastgit.xyz/hrsh7th/cmp-buffer"
+  },
+  ["cmp-cmdline"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/cmp-cmdline",
+    url = "https://hub.fastgit.xyz/hrsh7th/cmp-cmdline"
+  },
+  ["cmp-nvim-lsp"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+    url = "https://hub.fastgit.xyz/hrsh7th/cmp-nvim-lsp"
+  },
+  ["cmp-path"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/cmp-path",
+    url = "https://hub.fastgit.xyz/hrsh7th/cmp-path"
+  },
+  ["cmp-vsnip"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/cmp-vsnip",
+    url = "https://hub.fastgit.xyz/hrsh7th/cmp-vsnip"
+  },
   ["dashboard-nvim"] = {
     loaded = true,
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/dashboard-nvim",
     url = "https://hub.fastgit.xyz/glepnir/dashboard-nvim"
+  },
+  ["friendly-snippets"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/friendly-snippets",
+    url = "https://hub.fastgit.xyz/rafamadriz/friendly-snippets"
+  },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://hub.fastgit.xyz/lukas-reineke/indent-blankline.nvim"
   },
   ["lualine-lsp-progress"] = {
     loaded = true,
@@ -88,6 +123,21 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://hub.fastgit.xyz/nvim-lualine/lualine.nvim"
+  },
+  ["nvim-cmp"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+    url = "https://hub.fastgit.xyz/hrsh7th/nvim-cmp"
+  },
+  ["nvim-lsp-installer"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer",
+    url = "https://hub.fastgit.xyz/williamboman/nvim-lsp-installer"
+  },
+  ["nvim-lspconfig"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+    url = "https://hub.fastgit.xyz/neovim/nvim-lspconfig"
   },
   ["nvim-tree.lua"] = {
     loaded = true,
@@ -124,6 +174,11 @@ _G.packer_plugins = {
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://hub.fastgit.xyz/nvim-telescope/telescope.nvim"
   },
+  ["toggleterm.nvim"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+    url = "https://hub.fastgit.xyz/akinsho/toggleterm.nvim"
+  },
   ["tokyonight.nvim"] = {
     loaded = true,
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
@@ -133,6 +188,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/cty/.local/share/nvim/site/pack/packer/start/vim-bbye",
     url = "https://hub.fastgit.xyz/moll/vim-bbye"
+  },
+  ["vim-vsnip"] = {
+    loaded = true,
+    path = "/home/cty/.local/share/nvim/site/pack/packer/start/vim-vsnip",
+    url = "https://hub.fastgit.xyz/hrsh7th/vim-vsnip"
   }
 }
 
